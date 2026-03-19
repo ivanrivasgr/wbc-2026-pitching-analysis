@@ -51,6 +51,4 @@ streamlit run app.py
 | `app.py` | Streamlit dashboard |
 | `model.py` | Structural constraint model |
 | `known_data.py` | Real data — all entries sourced |
-| `medium_article_final.md` | Full published article |
-| `linkedin_post_final.txt` | LinkedIn post |
 | `requirements.txt` | Python dependencies |
